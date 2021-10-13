@@ -12,16 +12,16 @@ Rafaela's dad
 ### 🔭 Currently working with:
 
 #### Programming languages and frameworks
-[<img width="32px" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>][github] [<img width="32px" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>][github] [<img width="32px" alt="dotnetcore" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>][github] [<img width="32px" alt="express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>][github]
+[<img width="32px" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>][nodejs] [<img width="32px" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>][typescript] [<img width="32px" alt="dotnetcore" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>][dotnet] [<img width="32px" alt="express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>][express]
 
 #### Databases and Caching
-[<img width="32px" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>][github] [<img width="32px" alt="redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>][github] [<img width="32px" alt="postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>][github]
+[<img width="32px" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>][mongodb] [<img width="32px" alt="redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>][redis] [<img width="32px" alt="postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>][postgresql]
 
 #### Deployment, Infrastructure and CI/CD
-[<img width="32px" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>][github] [<img width="32px" alt="kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>][github] [<img width="32px" alt="googlecloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>][github] [<img width="32px" alt="googlecloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>][github]
+[<img width="32px" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>][docker] [<img width="32px" alt="kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>][kubernetes] [<img width="32px" alt="googlecloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>][gcp] [<img width="32px" alt="googlecloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>][github]
 
 #### Tools
- [<img width="32px" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>][github] [<img width="32px" alt="visualstudio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>][github] [<img width="32px" alt="yarn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg"/>][github]
+ [<img width="32px" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>][vscode] [<img width="32px" alt="visualstudio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>][visualstudio] [<img width="32px" alt="yarn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg"/>][yarn]
 
 ### 📫 How to reach me:
 
@@ -35,14 +35,27 @@ Rafaela's dad
 
 ### ⚡ Fun fact:
 
-I was vocalist in [Devaneio Óbvio](https://open.spotify.com/artist/6HgKFHrN8o0d0EWfYG4mYC?si=U_g4r4CCR0uwDLI308sc5Q&dl_branch=1)
+I was vocalist in [Devaneio Óbvio](https://open.spotify.com/artist/6HgKFHrN8o0d0EWfYG4mYC?si=U_g4r4CCR0uwDLI308sc5Q&dl_branch=1) 🎶
 
-Published [Revisando Conceitos](https://www.amazon.com.br/Revisando-Conceitos-Rafael-Henrique-Sobrinho-ebook/dp/B019M3ZJJW), a collection of poems
+Published [Revisando Conceitos](https://www.amazon.com.br/Revisando-Conceitos-Rafael-Henrique-Sobrinho-ebook/dp/B019M3ZJJW), a collection of poems 📚
 
 🧑🏾‍🏫 Profile inspired by this [blog post](https://dev.to/dii_lua/github-profile-como-fazer-54o0)
 
+[docker]: https://docker.com
+[dotnet]: https://dotnet.microsoft.com/
 [email]: mailto:rhsobr@gmail.com
-[twitter]: https://twitter.com/rhsobr
+[express]: https://expressjs.com/
+[kubernetes]: https://kubernetes.io/
+[gcp]: https://cloud.google.com/
+[github]:  https://github.com/rhsobr
 [instagram]: https://instagram.com/rhsobr
 [linkedin]: https://www.linkedin.com/in/rafael-henrique-23a29213/
-[github]:  https://github.com/rhsobr
+[mongodb]: https://www.mongodb.com/
+[nodejs]: https://nodejs.org/
+[postgresql]: https://www.postgresql.org/
+[redis]: https://redis.io/
+[twitter]: https://twitter.com/rhsobr
+[typescript]: https://www.typescriptlang.org/
+[visualstudio]: https://visualstudio.microsoft.com/
+[vscode]: https://code.visualstudio.com/
+[yarn]: https://yarnpkg.com/
