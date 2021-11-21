@@ -1,4 +1,3 @@
-![Header Image](https://github.com/rhsobr/rhsobr/blob/main/public/software_engineer.png)  
 ### Hello everyone
 
 I'm [Rafael Sobrinho](https://github.com/rhsobr) since 1987
