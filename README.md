@@ -2,7 +2,7 @@
 
 I'm [Rafael Sobrinho](https://github.com/rhsobr) since 1987
 
-Software Engineer at [@Octadesk](https://github.com/Octadesk-Tech)
+Software Engineer
 
 Bachelor's degree in Computer Science from Mackenzie Presbyterian University
 
